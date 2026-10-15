@@ -30,7 +30,7 @@ export default function ExperiencesSection() {
   ];
 
   return (
-    <section id="experiences" className="relative w-full bg-[#060708] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5">
+    <section id="experiences" className="relative w-full bg-[#060708] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5 scroll-mt-20">
       
       {/* Background Editorial Watermark '02' */}
       <div 

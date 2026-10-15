@@ -3,7 +3,7 @@ import trackLayout from '../assets/Gemini_Generated_Image_cpxmppcpxmppcpxm.png';
 
 export default function TrackSection() {
   return (
-    <section id="track" className="relative w-full bg-[#090a0c] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5">
+    <section id="track" className="relative w-full bg-[#090a0c] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5 scroll-mt-20">
       
       {/* Background Editorial Watermark '03' */}
       <div 

@@ -106,7 +106,7 @@ export default function Hero() {
 
           {/* Right Scroll Indicator */}
           <a
-            href="#explore"
+            href="#motorsport"
             className="flex items-center space-x-2 text-gray-300 hover:text-kms-red transition-colors group cursor-pointer"
           >
             <span className="font-semibold text-[11px] sm:text-xs tracking-widest">SCROLL TO EXPLORE</span>

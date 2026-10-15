@@ -31,7 +31,7 @@ const EVENTS_DATA = [
 
 export default function EventsSection() {
   return (
-    <section id="events" className="relative w-full bg-[#060708] text-white py-24 sm:py-32 lg:py-36 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5">
+    <section id="events" className="relative w-full bg-[#060708] text-white py-24 sm:py-32 lg:py-36 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5 scroll-mt-20">
       
       {/* Background Editorial Watermark '04' */}
       <div 

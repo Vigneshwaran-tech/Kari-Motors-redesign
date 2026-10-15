@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function AboutSection() {
   return (
-    <section id="about" className="relative w-full bg-[#090a0c] text-white py-24 sm:py-32 lg:py-40 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5">
+    <section id="about" className="relative w-full bg-[#090a0c] text-white py-24 sm:py-32 lg:py-40 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5 scroll-mt-20">
       
       {/* Background Editorial Watermark '05' */}
       <div 

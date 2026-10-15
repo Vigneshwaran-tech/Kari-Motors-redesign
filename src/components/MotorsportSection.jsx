@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function MotorsportSection() {
   return (
-    <section id="motorsport" className="relative w-full bg-[#090a0c] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5">
+    <section id="motorsport" className="relative w-full bg-[#090a0c] text-white py-28 sm:py-36 lg:py-44 px-4 sm:px-6 lg:px-8 overflow-hidden border-t border-white/5 scroll-mt-20">
       <div className="mx-auto max-w-7xl relative">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
           
@@ -49,7 +49,7 @@ export default function MotorsportSection() {
             {/* CTA Text Button */}
             <div className="pt-2">
               <a
-                href="#explore-motorsport"
+                href="#experiences"
                 className="group inline-flex items-center space-x-3 font-display text-sm sm:text-base font-bold tracking-widest text-white hover:text-kms-red transition-colors py-2"
               >
                 <span>EXPLORE MOTORSPORT</span>
